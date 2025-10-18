@@ -4,7 +4,6 @@
 [comment]: #https://profile-readme-generator.com/
 
 ### Analysis
-[<img height="50" width="50" src="https://skillicons.dev/icons?i=bash&theme=dark&perline=15"/>](https://www.gnu.org/software/bash/ "Bash")
 [<img height="50" width="50" src="https://gitlab.com/uploads/-/system/project/avatar/14681575/galaxy.png?width=96"/>](/ "Galaxy data science platform")
 [<img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Jupyter.svg"/>](/ "Jupyter Notebook")
 [<img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Kaggle.svg"/>](/ "Kaggle data science tools and resources")
@@ -18,16 +17,19 @@
 [<img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>](https://developer.mozilla.org/docs/Web/CSS "CSS")
 [<img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg"/>](https://developer.mozilla.org/docs/Web/HTML "HTML")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=md"/>](/ "Markdown")
-[<img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"/>](https://www.jetbrains.com/pycharm/ "PyCharm IDE")[<img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/RStudio.svg"/>](/ "R Studio IDE")
+[<img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"/>](https://www.jetbrains.com/pycharm/ "PyCharm IDE")
+[<img height="50" width="50" src="https://raw.githubusercontent.com/schrodinger/pymol-open-source/refs/heads/master/data/pymol/icons/icon2.svg"/>](https://pymol.org/ "PyMOL molecular visualizer")
+[<img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/RStudio.svg"/>](/ "R Studio IDE")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=vscode"/>](/ "Visual Studio Code IDE")
 
-### Systems
 
+### Systems
+[<img height="50" width="50" src="https://skillicons.dev/icons?i=bash&theme=dark&perline=15"/>](https://www.gnu.org/software/bash/ "Bash scripting language")
 [<img height="50" width="50" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"/>](https://www.google.com/chrome/ "Chrome browser")
 [<img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png"/>](https://www.microsoft.com/edge "Edge browser")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=linux"/>](/ "Linux/Unix operating systems")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=apple"/>](/ "MacOS operating system")
-[<img height="50" width="50" src="https://skillicons.dev/icons?i=ubuntu"/>](/ "Ubuntu Linux operating systems")
+[<img height="50" width="50" src="https://skillicons.dev/icons?i=ubuntu"/>](/ "Ubuntu Linux operating system")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=windows"/>](/ "Windows operating systems")
 
 ## My stats[^1]
