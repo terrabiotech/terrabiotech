@@ -40,7 +40,7 @@
 [comment]: # (GitHub theme documentation: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to)
 [comment]: # (If this widget does not load, it is likely due to the Vercel app's cache being out of date. A privacy setting was likely changed on the GitHub side. It will automatically resolve in 24 hours.)
 [![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=a-k-a06034204&bg_color=ffffff&layout=compact&theme=blueberry&title_color=000000&text_color=0d6f3f&border_color=404040&custom_title=Languages&langs_count=10&include_all_commits=true
-)](https://profile-summary-for-github.com/user/ak47us "Click to see more stats.")
+)](https://profile-summary-for-github.com/user/terrabiotech "Click to see more stats.")
 
 
 [^1]: Click each card to see more stats.
